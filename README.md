@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hej, jag heter Kenneth 👋
 
-<!--
-**kenneth-johansson/kenneth-johansson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Teknikelev (teknik, fysik och datateknik) som bygger verktyg i Python för dataanalys och automatisering.
 
-Here are some ideas to get you started:
+**Det jag gör:**
+- Rensar och sammanställer data från CSV- och Excel-filer automatiskt
+- Bygger Excelrapporter med sammanställningar och diagram
+- Analyserar stora datamängder – bl.a. egna statistiska tester på marknadsdata
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projekt:** [CSV till Excel](https://github.com/kenneth-johansson/csv-till-excel) – rensar röriga exporter och skapar en färdig rapport med ett klick.
+
+**Verktyg:** Python (pandas, openpyxl), Excel, C++
+
+📧 kenneth-johansson@outlook.com
